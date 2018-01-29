@@ -54,6 +54,9 @@ Working directory er mappa með upprunalegu skrárnar.
 Staging area er tool sem leyfir okkur að stjórna nákvæmlega því sem er í commit
 Git stjórnar verkefnum, skrám, þar sem þau breytast með tímanum. Git geymir þessar upplýsingar í repository
 
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+svar: Þegar unnið er að mörgum þáttum í sama verkefninu
+
 9.	Hver fann upp GIT?
 svar: Linus Torvalds
 
