@@ -62,3 +62,6 @@ svar: Þegar unnið er að mörgum þáttum í sama verkefninu
 
 9.	Hver fann upp GIT?
 svar: Linus Torvalds
+
+10.	Hvar er GIT helst notað?
+svar: Hjá þeim sem eru að vinna við tölvur
