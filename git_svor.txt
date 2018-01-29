@@ -38,7 +38,8 @@ a) sýnir breytingar á skrám sem ekki eru enn tibúnar
 b) sýnir aðeins breytingar á skrám sem eru í "staged" svæðinu
 c) sýnir breytingar á milli commita
 
-
+4. 	Hvað er útgáfustýring (e.version control)?
+svar: Version control er kerfi sem heldur utan um breytingar á skrám þannig að hægt er að sækja fyrri útgáfur af skránni
 
 
 9.	Hver fann upp GIT?
