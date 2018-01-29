@@ -44,6 +44,9 @@ svar: Version control er kerfi sem heldur utan um breytingar á skrám þannig a
 5.	Hverjir eru helstu kostir við að nota GIT?
 svar: helstu kostir eru að geta afturkallað skrárnar í fyrri stöðu þeirra, snúa öllu verkefni aftur til fyrri stöðu þess. Bera saman kóða breytingar á ákveðnum tíma.  Finna hver breytti síðast kóða sem gæti valdið vandamáli.
 
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+svar: Alltaf þegar þú bætir við nýjum eiginleika sem er þess virði að commita, t.d. þegar maður bætir við vinnuaðferð, lagaðir stafsetningarvillu, settir inn kóða, eyddir kóða.
+
 9.	Hver fann upp GIT?
 svar: Linus Torvalds
 
