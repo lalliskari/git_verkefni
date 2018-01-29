@@ -41,6 +41,8 @@ c) sýnir breytingar á milli commita
 4. 	Hvað er útgáfustýring (e.version control)?
 svar: Version control er kerfi sem heldur utan um breytingar á skrám þannig að hægt er að sækja fyrri útgáfur af skránni
 
+5.	Hverjir eru helstu kostir við að nota GIT?
+svar: helstu kostir eru að geta afturkallað skrárnar í fyrri stöðu þeirra, snúa öllu verkefni aftur til fyrri stöðu þess. Bera saman kóða breytingar á ákveðnum tíma.  Finna hver breytti síðast kóða sem gæti valdið vandamáli.
 
 9.	Hver fann upp GIT?
 svar: Linus Torvalds
