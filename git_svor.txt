@@ -14,6 +14,20 @@ ls = til að sjá hvaða skrár eru í möppu
 pwd = segir í hvaða möppu þú ert staddur
 mkdir = býr til nýja möppu
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+svar:
+git clone = taka afrit af repository
+git log = skoða sögu af git verkefni
+git status = segir hvaða breytingar hafa verið gerðar í möppunni sem 	þú ert að vinna í, hvaða breytingar hafa ekki verið gerðar og 		hvaða skrár eru ekki skráðar í Git
+git diff = sýnir breytingar á skrám sem ekki eru enn tibúnar
+git checkout = skiptir á milli branches 
+
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
 	b) git diff --staged 
