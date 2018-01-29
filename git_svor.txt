@@ -25,7 +25,7 @@ svar:
 git clone = taka afrit af repository
 git log = skoða sögu af git verkefni
 git status = segir hvaða breytingar hafa verið gerðar í möppunni sem 	þú ert að vinna í, hvaða breytingar hafa ekki verið gerðar og 		hvaða skrár eru ekki skráðar í Git
-git diff = sýnir breytingar milli commita
+git diff = sýnir breytingar á skrám sem ekki eru enn tibúnar
 git checkout = skiptir á milli branches 
 
 3. Hver er munurinn á eftirfarandi git skipunum:
@@ -34,3 +34,31 @@ git checkout = skiptir á milli branches
 	c) git diff commit1 commit2
 
 svar:
+a) sýnir breytingar á skrám sem ekki eru enn tibúnar
+b) sýnir aðeins breytingar á skrám sem eru í "staged" svæðinu
+c) sýnir breytingar á milli commita
+
+
+4. 	Hvað er útgáfustýring (e.version control)?
+svar: Version control er kerfi sem heldur utan um breytingar á skrám þannig að hægt er að sækja fyrri útgáfur af skránni
+
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+svar: helstu kostir eru að geta afturkallað skrárnar í fyrri stöðu þeirra, snúa öllu verkefni aftur til fyrri stöðu þess. Bera saman kóða breytingar á ákveðnum tíma.  Finna hver breytti síðast kóða sem gæti valdið vandamáli.
+
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+svar: Alltaf þegar þú bætir við nýjum eiginleika sem er þess virði að commita, t.d. þegar maður bætir við vinnuaðferð, lagaðir stafsetningarvillu, settir inn kóða, eyddir kóða.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+svar:
+Working directory er mappa með upprunalegu skrárnar.
+Staging area er tool sem leyfir okkur að stjórna nákvæmlega því sem er í commit
+Git stjórnar verkefnum, skrám, þar sem þau breytast með tímanum. Git geymir þessar upplýsingar í repository
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+svar: Þegar unnið er að mörgum þáttum í sama verkefninu
+
+9.	Hver fann upp GIT?
+svar: Linus Torvalds
