@@ -47,6 +47,13 @@ svar: helstu kostir eru að geta afturkallað skrárnar í fyrri stöðu þeirra
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 svar: Alltaf þegar þú bætir við nýjum eiginleika sem er þess virði að commita, t.d. þegar maður bætir við vinnuaðferð, lagaðir stafsetningarvillu, settir inn kóða, eyddir kóða.
 
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+svar:
+Working directory er mappa með upprunalegu skrárnar.
+Staging area er tool sem leyfir okkur að stjórna nákvæmlega því sem er í commit
+Git stjórnar verkefnum, skrám, þar sem þau breytast með tímanum. Git geymir þessar upplýsingar í repository
+
 9.	Hver fann upp GIT?
 svar: Linus Torvalds
 
